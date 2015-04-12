@@ -1,0 +1,13 @@
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set fileformat=unix 
+set nobomb 
+set ff=unix
+set fileencoding=utf-8
+syntax on
+set nocompatible 
+set completeopt=preview
+set ai
+set hls
+set nu
